@@ -1,0 +1,17 @@
+*{
+    background-color: #121212;
+}
+h1{
+    text-align: center;
+    color:whitesmoke;
+    background-color: rgb(53, 53, 53);
+    font-size: 50px;
+}
+div{
+    color: lightgreen;
+}
+
+a{
+    color: aqua;
+    font-size: large;
+}

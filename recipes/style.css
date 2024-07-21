@@ -1,0 +1,15 @@
+*{
+    background-color: blanchedalmond;
+    color:darkblue;
+}
+h1{
+    text-align: center;
+    color:black;
+    background-color:thistle;
+}
+img{
+    height: auto;
+    width: 200px;
+    margin: 0 auto;
+    padding: 20px;
+}
